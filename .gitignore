@@ -1,0 +1,15 @@
+# Secrets
+google_config.php
+mail_config.php
+ai_config.php
+
+# Sensitive uploads (ID cards)
+uploads/ids/*
+!uploads/ids/.htaccess
+
+# PHP dependencies (run: php composer.phar install)
+vendor/
+composer.phar
+
+# Expense receipts and AI evidence (private)
+storage/
