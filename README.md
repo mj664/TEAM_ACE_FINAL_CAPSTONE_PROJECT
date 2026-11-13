@@ -2,6 +2,13 @@
 **PHP + MySQL Inventory Management for Caloocan City Disaster Risk Reduction & Management Office**
 
 ---
+## Group Members & Roles
+* Tendero, Jedrick – Project Manager / Lead Developer
+* Isigne, Antonio – AI / Machine Learning Developer
+* Olmedo, Mary Joy – Full-Stack Developer
+* Villa, Jenelyn - System Analyst / QA Tester
+* Estocado, Johnpaulo - UI Designer / Documentation
+---
 
 ## 📋 Project Structure
 
